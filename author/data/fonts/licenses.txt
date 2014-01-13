@@ -1,0 +1,6 @@
+Licenses for fonts:
+
+OFL
+==============
+intuitive.ttf
+OpenBaskerville-0.0.53.otf
