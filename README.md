@@ -28,9 +28,9 @@ Who?
 TiddlyWiki was originally created by Jeremy Ruston.
 
 The ebook system and its components were developed in EU-funded [E-Math -project](http://emath.eu) by
-* Petri Salmela
-* Petri Sallasmaa
-* Rolf Lindén
+* [Petri Salmela](https://github.com/pesasa)
+* [Petri Sallasmaa](https://github.com/pekasa)
+* [Rolf Lindén](https://github.com/trg1984)
 
 and the copyrights of these components are owned by [Four Ferries oy](http://fourferries.fi).
 
